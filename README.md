@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm x2tora 👋
-
 **Building practical Android apps, Windows desktop utilities, and modern web tools.**
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-x2tora-181717?style=flat-square&logo=github)](https://github.com/x2tora)
@@ -22,7 +20,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
 </div>
 
